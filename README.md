@@ -333,6 +333,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Hosting
 
 * [DigitalOcean](https://www.digitalocean.com/?refcode=fdcfedac5208)
+* [Heroku](https://www.heroku.com)
 
 ## For kids (and adults who just love to have fun)
 
