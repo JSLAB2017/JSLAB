@@ -1,17 +1,24 @@
-# Essential JavaScript Links
+# JSLAB
 
-A curated list by Eric Elliott and friends. Suggest a link with a PR or [open a new issue](https://github.com/ericelliott/essential-javascript-links/issues/new).
+![JSLAB](http://i.imgur.com/5E7RUIz.png)
 
-[Help us turn this into a proper website!](https://github.com/ericelliott/essential-javascript-links/issues)
+Welcome to JSLAB (JavaScript Lab) pronounced "Jay-Slab".
 
-This is a very exclusive collection of only must-have JavaScript links. I'm only listing my favorite links. Nothing else makes the cut. Feel free to suggest links if you think they're truly essential.
+Our goal here is to get you interested in the world of Programming and Computer Science through weekly workshops (labs).
+Each lab will have the same format every week and will consist of an official two-hour meeting, followed by unofficial happy hour (socializing).
+Lab starts at 6:30 sharp.  You can get **credit** for your lab work.  If you are interested in receiving lab credit, please let your TA know after the lab is over.
 
-## Full Disclosure
+* Hour 1: **The Basics**
+    * Every week, we will cover the very basics of the JavaScript language (ES5-ES7 - The ECMAScript Specification).  This is important because it allows new people to join us every week, regardless of  their experience level.  This hour will become redundant for many attendees, so the basics are optional.  You can receive partial credit (0.5) for every time you attend a follow-up basics session.  *1 Credit*
 
-Some of these links are affiliate links, meaning that if you make a purchase, I might earn a little money. **This has absolutely no bearing on whether or not links make the list.** *None, whatsoever.* However, it does allow me more resources to **[fight poverty with code](https://medium.com/the-backer-army/fighting-poverty-with-code-d1ed3ebd982d)**. *Every little bit counts.*
+* Hour 2: **The Lab**
+    * You learn by doing.  So bring your most polite and professional self to the lab to participate with other attendees.  This will be an open lab session, where you can ask any questions and receive direct help from volunteers, professionals and enthusiasts.  We will be happy to go over your projects and problems, homework, etc.  In fact, your project does not strictly have to be JavaScript.  It may be math homework, another CS language, statistics, whatever.  Just remember that this is JSLAB, so our volunteers might not have the expertise you are looking for and you may have to socialize to see if someone else can help.  *1 Credit*
+
+* Hour 3: **Socializing**
+    * You are human.  You are friends (or you should be).  Use this time to work on **human skills**.  Feel free to talk about coding, work, politics, economics, whatever.  Just be polite, friendly and kind.  This is a strictly no-conflict zone.  People who don't respect other people may be asked to leave and may be put on a permanent black list.  Please keep this time safe and family friendly.  No drinking if there are minors present.  Also use this time to clean up before you leave.  Bottles and cans should be recycled.  Please plan on staying no more than one hour per lab.  *No Credit*
 
 
-## Required Reading (Online resources)
+## Required Reading (Online resources) [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 
 * [Learn to Code: 13 Tips That Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f) #article
 * [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) One clear path to JavaScript mastery #article
@@ -370,3 +377,6 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Paul Irish](https://twitter.com/paul_irish) Developer evangelist, Chrome dev tools champion
 * [Reginald Braithwaite](https://twitter.com/raganwald) Author, "JavaScript Allongé", speaker, PagerDuty
 * [YDKJS](https://twitter.com/ydkjs) You Don't Know JS, O'Reilly book series by Kyle Simpson
+
+## Attendees (alphabetical)
+Please sign our digital guest book by posting your Twitter Handle below
