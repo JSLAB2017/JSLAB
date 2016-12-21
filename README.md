@@ -23,11 +23,43 @@ Lab starts at every other Wednesday 7:00 sharp as of 12/21/2016.  If this lab be
 
 ## The Basics
 
+### WHOAMI
+[amir djavaherian](http://stackoverflow.com/users/2296997/4m1r)
+Programmer, Musician, Maker, Pizza Connoseiur
+
+### What is this?
 [What is JavaScript?](https://en.wikipedia.org/wiki/JavaScript)
 
-Demo: Let's use some Javascript.
+### Demo: Let's use some Javascript.
+[http://bit.ly/JSLAB2017](http://bit.ly/JSLAB2017)
 
+Here's our first task.  Add your name to the attendees section of the JSLAB readme (sign up for a github account while you're at it).  See what happened?  You just *used* JavaScript.  In fact if you're using a computer and surfing the Internet.  JavaScript is everywhere.  Pretty much every interaction you have with a web site is using JavaScript under the hood. That's work to be done, and you can do it!
 
+### The Math
+Let's talk about Math.  You might be good at it, bad at it, really bad at it, whatever.  Just don't be scared of it.  Although pretty much everything related to computers and computer science is made up or backed up by some serious math, you'll find that once you get familiar with some of the core concepts of computer science and programming, you may not even use very much or any math in your day to day programming.  Don't get me wrong, the more math and science you know, the better.  But don't be scared of it.  Its just like pitching a softball, you start slow and eventually with practice, you master the art of the strikeout.
+
+### Core Concepts
+At the heart of any programming language are usually a few consistent concepts.  
+
+* You have concepts like *state* which is kind of like your application's memory.
+* And *speed* which is how fast your application can do something.
+* You have structures like *objects* which are also like memory.
+* You have *classes* which are like collections of objects.
+* You'll see *functions* or *methods* which are interchangeable terms for doing some kind of work
+* There's *variables* which are like little units of memory or references to memory that help you do work.
+* There's booleans true and false, 0 or 1, on or off, whatever.  Computers work in binary or *boolean* numbers.
+* There's *loops* which are like built-in functions
+* And *conditionals* that help you make descisions about what your code should do in real time
+
+All these concepts are usually working together in the same application.  Their syntax and implementation might be different from language to language, but just like the difference between Mandarin Chinese, and American English, there are always words for "mom" or "water" or "food" or "friend".
+
+### Let's take a look at the language
+[Let's do some 101...](http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0)
+[More 101...](http://www.integralist.co.uk/posts/js-101.html)
+
+### Wrap-up.  
+
+Here's an exhaustive list of reading to get you jazzed about JavaScript.  Do your homework, read, watch videos, do something, get inspired and we'll help you work on your project for another hour or so.  Don't forget to sign up for the next meetup.
 
 ## Required Reading (Online resources) [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 
