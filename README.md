@@ -56,6 +56,7 @@ All these concepts are usually working together in the same application.  Their 
 ### Let's take a look at the language
 [Let's do some 101...](http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0)
 [More 101...](http://www.integralist.co.uk/posts/js-101.html)
+[CodePen](http://codepen.io)
 
 ### Wrap-up.  
 
