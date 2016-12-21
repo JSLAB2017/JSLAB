@@ -2,20 +2,31 @@
 
 ![JSLAB](http://i.imgur.com/5E7RUIz.png)
 
-Welcome to JSLAB (JavaScript Lab) pronounced "Jay-Slab".
+## Welcome to JSLAB (JavaScript Lab) pronounced "JS Lab".
+
+### Too long didn't read... (tldr;)
 
 Our goal here is to get you interested in the world of Programming and Computer Science through weekly workshops (labs).
-Each lab will have the same format every week and will consist of an official two-hour meeting, followed by unofficial happy hour (socializing).
-Lab starts at 6:30 sharp.  You can get **credit** for your lab work.  If you are interested in receiving lab credit, please let your TA know after the lab is over.
+Each lab will have the same format every week and will consist of an official two-hour meeting (1 hour basic JS lecture and 1 hour lab), followed by an unofficial happy hour (socializing).
+
+Lab starts at every other Wednesday 7:00 sharp as of 12/21/2016.  If this lab becomes more successful, we might change the meetup time.  Eventually, we want to make this a weekly program, so you will be able to get **credit** for your lab work and labs will be a sort of cheaper and less formal kind of code camp.  If you are interested in receiving lab credit, please let a volunteer know after the lab is over and please sign-up for the next meeting.
 
 * Hour 1: **The Basics**
-    * Every week, we will cover the very basics of the JavaScript language (ES5-ES7 - The ECMAScript Specification).  This is important because it allows new people to join us every week, regardless of  their experience level.  This hour will become redundant for many attendees, so the basics are optional.  You can receive partial credit (0.5) for every time you attend a follow-up basics session.  *1 Credit*
+    * Every week, we will cover the very basics of the JavaScript language (ES5-ES7 - The ECMAScript Specification).  This is important because it allows new people to join us every week, regardless of their experience level.  This hour will become redundant for many attendees, so the basics are optional.  Eventually, you can receive partial credit (0.5) for every time you attend a follow-up basics session.  *1 Credit*
 
 * Hour 2: **The Lab**
-    * You learn by doing.  So bring your most polite and professional self to the lab to participate with other attendees.  This will be an open lab session, where you can ask any questions and receive direct help from volunteers, professionals and enthusiasts.  We will be happy to go over your projects and problems, homework, etc.  In fact, your project does not strictly have to be JavaScript.  It may be math homework, another CS language, statistics, whatever.  Just remember that this is JSLAB, so our volunteers might not have the expertise you are looking for and you may have to socialize to see if someone else can help.  *1 Credit*
+    * You learn by doing.  So bring your most polite and professional self to the lab to participate with other attendees and volunteers.  This will be an open lab session, where you can ask any questions and receive direct help from volunteers, professionals and enthusiasts.  We will be happy to go over your projects and problems, homework, etc.  In fact, your project does not strictly have to be JavaScript.  It may be math homework, another CS language, statistics, whatever.  Just remember that this is JSLAB, so our JS volunteers might not have the expertise you are looking for.  You may have to ask around to see if someone else can help.  *1 Credit*
 
 * Hour 3: **Socializing**
-    * You are human.  You are friends (or you should be).  Use this time to work on **human skills**.  Feel free to talk about coding, work, politics, economics, whatever.  Just be polite, friendly and kind.  This is a strictly no-conflict zone.  People who don't respect other people may be asked to leave and may be put on a permanent black list.  Please keep this time safe and family friendly.  No drinking if there are minors present.  Also use this time to clean up before you leave.  Bottles and cans should be recycled.  Please plan on staying no more than one hour per lab.  *No Credit*
+    * You are human.  We are all friends (or will be).  Use this time to work on **human skills**.  Feel free to talk about coding, work, politics, economics, whatever.  Just be polite, friendly and kind.  This is a strictly no-conflict zone.  People who don't respect other people may be asked to leave and may be put on a permanent black list.  Please keep this time safe and family friendly.  No drinking if there are minors present.  Also use this time to clean up before you leave.  Bottles and cans should be recycled.  Please plan on staying no more than one hour per lab.  *No Credit*
+
+
+## The Basics
+
+[What is JavaScript?](https://en.wikipedia.org/wiki/JavaScript)
+
+Demo: Let's use some Javascript.
+
 
 
 ## Required Reading (Online resources) [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
