@@ -422,6 +422,13 @@ Here's an exhaustive list of reading to get you jazzed about JavaScript.  Do you
 * [Reginald Braithwaite](https://twitter.com/raganwald) Author, "JavaScript Allongé", speaker, PagerDuty
 * [YDKJS](https://twitter.com/ydkjs) You Don't Know JS, O'Reilly book series by Kyle Simpson
 
-## Attendees (alphabetical)
-Please sign our digital guest book by posting your Twitter Handle below
-Larry Reader
+## Attendees
+Please sign our digital guest book by posting your Twitter handle or name below
+
+* David Choi
+* Matthew_Brown
+* @manrajp
+* Peter Hartmann 
+* German Hubieral
+* Larry Reader
+
