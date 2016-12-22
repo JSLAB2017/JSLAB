@@ -425,3 +425,4 @@ Here's an exhaustive list of reading to get you jazzed about JavaScript.  Do you
 ## Attendees (alphabetical)
 Please sign our digital guest book by posting your Twitter Handle below
 @manrajp
+Peter Hartmann 
