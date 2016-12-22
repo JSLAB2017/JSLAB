@@ -60,7 +60,7 @@ All these concepts are usually working together in the same application.  Their 
 
 ### Wrap-up.  
 
-Here's an exhaustive list of reading to get you jazzed about JavaScript.  Do your homework, read, watch videos, do something, get inspired and we'll help you work on your project for another hour or so.  Don't forget to sign up for the next meetup.
+Let's move over to the [Wiki](https://github.com/JSLAB2017/JSLAB/wiki) to get you jazzed about JavaScript.  Do your homework, read, watch videos, do something, get inspired and we'll help you work on your project for another hour or so.  Don't forget to sign up for the next meetup.
 
 ## Required Reading (Online resources) [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 
