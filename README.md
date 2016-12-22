@@ -423,6 +423,8 @@ Here's an exhaustive list of reading to get you jazzed about JavaScript.  Do you
 * [YDKJS](https://twitter.com/ydkjs) You Don't Know JS, O'Reilly book series by Kyle Simpson
 
 ## Attendees (alphabetical)
-Please sign our digital guest book by posting your Twitter Handle below
-
-*David Choi
+Please sign our digital guest book by posting your Twitter handle or name below
+* David Choi
+* [Matthew_Brown]
+* @manrajp
+* Peter Hartmann 
