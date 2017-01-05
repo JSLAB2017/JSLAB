@@ -24,19 +24,20 @@ Lab starts at every other Wednesday 7:00 sharp as of 12/21/2016.  If this lab be
 ## The Basics
 
 ### WHOAMI
-[amir djavaherian](http://stackoverflow.com/users/2296997/4m1r)
-Programmer, Musician, Maker, Pizza Connoseiur
+* Professional Programmer with > 10 years of experience.  Self-taught, I don't have a CS degree.
+* [Amir Djavaherian](http://stackoverflow.com/users/2296997/4m1r)
+* [LinkedIn](https://www.linkedin.com/in/amirdjavaherian)
+* [GitHub](https://github.com/adjavaherian)
+* Programmer, Musician, Maker, Pizza Connoseiur
 
 ### What is this?
 [What is JavaScript?](https://en.wikipedia.org/wiki/JavaScript)
 
-### Demo: Let's use some Javascript.
-[http://bit.ly/JSLAB2017](http://bit.ly/JSLAB2017)
-
-Here's our first task.  Add your name to the attendees section of the JSLAB readme (sign up for a github account while you're at it).  See what happened?  You just *used* JavaScript.  In fact if you're using a computer and surfing the Internet.  JavaScript is everywhere.  Pretty much every interaction you have with a web site is using JavaScript under the hood. That's work to be done, and you can do it!
+### Demo: Let's demonstrate some Javascript.
+Here's our first task.  Login to GitHub (or sign up) and add your name to the [Attendees](https://github.com/JSLAB2017/JSLAB/wiki/Attendees) section of the JSLAB Wiki.  See what happened?  You just *used* JavaScript.  In fact if you're using a computer and surfing the Internet, JavaScript is everywhere.  Pretty much every interaction you have with a web site is using JavaScript under the hood. That's work to be done, and you can do it!
 
 ### The Math
-Let's talk about Math.  You might be good at it, bad at it, really bad at it, whatever.  Just don't be scared of it.  Although pretty much everything related to computers and computer science is made up or backed up by some serious math, you'll find that once you get familiar with some of the core concepts of computer science and programming, you may not even use very much or any math in your day to day programming.  Don't get me wrong, the more math and science you know, the better.  But don't be scared of it.  Its just like pitching a softball, you start slow and eventually with practice, you master the art of the strikeout.
+Let's talk about Math.  You might be good at it, bad at it, really bad at it, whatever.  Just don't be scared of it.  Although pretty much everything related to computers and computer science is made up or backed up by some serious math, you'll find that once you get familiar with some of the core concepts of computer science and programming, you may not even use very much or any math in your day to day programming.  Don't get me wrong, the more math and science you know, the better.  **Don't be scared of it.**  Its just like pitching a softball, you start slow and eventually with practice, you master the art of the strikeout.
 
 ### Core Concepts
 At the heart of any programming language are usually a few consistent concepts.  
