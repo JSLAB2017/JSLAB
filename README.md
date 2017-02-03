@@ -42,15 +42,17 @@ Let's talk about Math.  You might be good at it, bad at it, really bad at it, wh
 ### Core Concepts
 At the heart of any programming language are usually a few consistent concepts.  
 
-* You have concepts like *state* which is kind of like your application's memory.
-* And *speed* which is how fast your application can do something.
-* You have structures like *objects* which are also like memory.
-* You have *classes* which are like collections of objects.
-* You'll see *functions* or *methods* which are interchangeable terms for doing some kind of work
-* There's *variables* which are like little units of memory or references to memory that help you do work.
-* There's booleans true and false, 0 or 1, on or off, whatever.  Computers work in binary or *boolean* numbers.
+* You have concepts like *state* which is kind of like your application's memory eg. `heap and stack`.
+* And *speed* which is how fast your application can do something eg. `Big O Notation`.
+* You have structures like *objects* `{hello: 'world'}` and *arrays* `['hello', 'world']`.
+* You may have *classes* which are like collections of objects.
+* You'll see *functions* or *methods* which are generally interchangeable terms for doing some kind of work
+* There's *variables* either strongly or weakly typed, which are like little units of memory or references to memory that help you do work. eg. `var theMatrix = "Good Movie!"`
+* There's booleans `true` and `false`, 0 or 1, on or off, whatever.  Computers work in binary or *boolean* numbers.
 * There's *loops* which are like built-in functions
-* And *conditionals* that help you make descisions about what your code should do in real time
+* You'll have *operators* like aritmetic, logical and relational `+,-,&&,||,etc...`
+* And *conditionals* `if, else, switch, etc....` that help you make descisions about what your code should do in real time
+* And *comments* which are human readable lines, that don't effect the flow of your program. eg. `//this is a comment!`
 
 All these concepts are usually working together in the same application.  Their syntax and implementation might be different from language to language, but just like the difference between Mandarin Chinese, and American English, there are always words for "mom" or "water" or "food" or "friend".
 
