@@ -57,7 +57,7 @@ At the heart of any programming language are usually a few consistent concepts.
 All these concepts are usually working together in the same application.  Their syntax and implementation might be different from language to language, but just like the difference between Mandarin Chinese, and American English, there are always words for "mom" or "water" or "food" or "friend".
 
 ### Let's take a look at the language
-* [Let's do some 101...](http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0)
+* [Let's do some 101...](https://github.com/JSLAB2017/markleft/blob/master/prezas-md/javascript-101.md)
 * [More 101...](http://www.integralist.co.uk/posts/js-101.html)
 * [CodePen](http://codepen.io)
 
